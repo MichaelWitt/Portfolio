@@ -1,4 +1,4 @@
-# Portfolio-October-2020
+# Portfolio-2020
 Updated portfolio October 2020. 
 
 ## Michael Witt
