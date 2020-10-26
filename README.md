@@ -16,9 +16,9 @@ What technologies were used?
 
 ## Website & Repository
 
-<!-- View the website at: https://michaelwitt.github.io/PROJECTNAME
+View the website at: https://michaelwitt.github.io/Portfolio-2020/
 
-View the repository at: https://github.com/MichaelWitt/PROJECTNAME -->
+View the repository at: https://github.com/MichaelWitt/Portfolio-2020/
 
 <!-- Website Preview: ![alt text](https://michaelwitt.github.io/WEBSITEIMG)
 Website Demo: ![alt text](https://michaelwitt.github.io/DEMOIMG) -->
@@ -40,7 +40,6 @@ Images:
 		Unsplash (unsplash.com)
 		Pixabay (pixabay.com)
 		@StartupStockPhotos
-		@Free-Photos
 Icons:
 		Font Awesome (fontawesome.io)
 Other:
