@@ -38,6 +38,9 @@ aj@lkn.io | @ajlkn
 
 Images:
 		Unsplash (unsplash.com)
+		Pixabay (pixabay.com)
+		@StartupStockPhotos
+		@Free-Photos
 Icons:
 		Font Awesome (fontawesome.io)
 Other:
