@@ -1,18 +1,19 @@
 # Portfolio-2020
-Updated portfolio October 2020. 
+Updated Portfolio 2020. 
 
 ## Michael Witt
 
 Hello! My name is Michael. Welcome to my portfolio. 
 
-Details
+Full-stack web developer, digital communication specialist, and rapid prototyping professional! 
 
-Enjoy! 
+I'm a UNC Chapel Hill Coding Bootcamp Student, NC State Public & Interpersonal Communication Graduate, and currently on the Rapid Cut Prototyping Sales Team. Highly skilled and well-read in many coding languages; I develop and program functional, beautiful, and intuitive websites and apps. I want to use my gifts and talents to code a better future, creating applications and software that enhances human well-being, increases and optimizes user efficiency, and develops the next hyperintelligent technology the world needs. 
+
+Thanks for stopping in! I look forward to working together to make the present and future a better place.
 
 ## Build Details
 
-How did you build this project?
-What technologies were used?
+My portfolio was built using HTML, CSS, JavaScript, jQuery, and more! I formatted and stylized the website to display my bio, skillset, experience, projects, and contact links. 
 
 ## Website & Repository
 
@@ -20,14 +21,14 @@ View the website at: https://michaelwitt.github.io/Portfolio-2020/
 
 View the repository at: https://github.com/MichaelWitt/Portfolio-2020/
 
-<!-- Website Preview: ![alt text](https://michaelwitt.github.io/WEBSITEIMG)
-Website Demo: ![alt text](https://michaelwitt.github.io/DEMOIMG) -->
+Website Preview: ![alt text](https://michaelwitt.github.io/Portfolio-2020/images/website-mainpage.png)
+Website Bio: ![alt text](https://michaelwitt.github.io/Portfolio-2020/images/website-bio.png)
 
 ## Updates
 
 You can find project updates in the repository, highlighting what was done to create the final product.
 
-<!-- https://github.com/MichaelWitt/PROJECTNAME/commits/ -->
+https://github.com/MichaelWitt/Portfolio-2020/commits/
 
 ## Credits
 
@@ -47,20 +48,7 @@ Other:
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 
-Creative Commons Attribution 3.0 Unported
-http://creativecommons.org/licenses/by/3.0/
-
 Thanks! 
-
-## License
-
-Licensed under the MIT license.
-
-<!-- https://https://michaelwitt.github.io/LICENSELOCATION -->
-
-## Contributor Covenant Code of Conduct
-
-https://www.contributor-covenant.org/version/2/0/code_of_conduct/
 
 ## Thanks For Visiting!
 
