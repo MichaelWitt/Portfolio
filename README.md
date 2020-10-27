@@ -17,9 +17,9 @@ My portfolio was built using HTML, CSS, JavaScript, jQuery, and more! I formatte
 
 ## Website & Repository
 
-View the website at: https://michaelwitt.github.io/Portfolio-2020/
+View the website at: https://michaelwitt.github.io/Portfolio/
 
-View the repository at: https://github.com/MichaelWitt/Portfolio-2020/
+View the repository at: https://github.com/MichaelWitt/Portfolio/
 
 Website Preview: ![alt text](https://michaelwitt.github.io/Portfolio-2020/images/website-mainpage.png)
 Website Bio: ![alt text](https://michaelwitt.github.io/Portfolio-2020/images/website-bio.png)
