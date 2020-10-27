@@ -1,5 +1,5 @@
-# Portfolio-2020
-My Updated Portfolio 2020. 
+# Portfolio
+My Updated Portfolio. 
 
 ## Michael Witt
 
