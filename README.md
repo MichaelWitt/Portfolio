@@ -21,14 +21,14 @@ View the website at: https://michaelwitt.github.io/Portfolio/
 
 View the repository at: https://github.com/MichaelWitt/Portfolio/
 
-Website Preview: ![alt text](https://michaelwitt.github.io/Portfolio-2020/images/website-mainpage.png)
-Website Bio: ![alt text](https://michaelwitt.github.io/Portfolio-2020/images/website-bio.png)
+Website Preview: ![alt text](https://michaelwitt.github.io/Portfolio/images/website-mainpage.png)
+Website Bio: ![alt text](https://michaelwitt.github.io/Portfolio/images/website-bio.png)
 
 ## Updates
 
 You can find project updates in the repository, highlighting what was done to create the final product.
 
-https://github.com/MichaelWitt/Portfolio-2020/commits/
+https://github.com/MichaelWitt/Portfolio/commits/
 
 ## Credits
 
